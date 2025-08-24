@@ -52,3 +52,8 @@
   border-color: #3498db;
 }
 
+.form-group small {
+  margin: 0.5rem 0 0.25rem 0;
+  color: #7f8c8d;
+  font-size: 0.85rem;
+}
