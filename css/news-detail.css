@@ -112,3 +112,7 @@
   font-weight: 500;
 }
 
+.read-more-link:hover {
+  background: #2980b9;
+  transform: translateY(-2px);
+}
