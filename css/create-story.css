@@ -2,3 +2,12 @@
 .create-story {
   animation: fadeIn 0.5s ease-in;
 }
+
+.create-story-container {
+  background: white;
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 0 auto;
+}
