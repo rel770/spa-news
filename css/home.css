@@ -31,3 +31,11 @@
   background: #2980b9;
   transform: translateY(-2px);
 }
+
+/* News grid */
+.news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
