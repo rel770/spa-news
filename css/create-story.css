@@ -93,3 +93,8 @@
   transform: translateY(-2px);
 }
 
+.submit-button:disabled {
+  background: #95a5a6;
+  cursor: not-allowed;
+}
+
