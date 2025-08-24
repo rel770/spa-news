@@ -21,3 +21,9 @@
     font-size: 1.8rem;
     font-weight: 700;
 }
+
+.nav-menu {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+}
