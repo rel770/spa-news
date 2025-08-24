@@ -30,3 +30,9 @@
   flex-direction: column;
 }
 
+.form-group label {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
