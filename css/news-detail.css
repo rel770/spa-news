@@ -95,3 +95,8 @@
   margin-bottom: 1rem;
 }
 
+.news-detail-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 2px solid #ecf0f1;
+}
