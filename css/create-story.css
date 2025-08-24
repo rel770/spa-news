@@ -63,3 +63,7 @@
   min-height: 100px;
 }
 
+.image-preview {
+  margin-top: 1rem;
+  text-align: center;
+}
