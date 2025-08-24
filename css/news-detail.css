@@ -52,3 +52,13 @@
   color: #7f8c8d;
   font-style: italic;
 }
+
+.user-story-badge {
+  background: #e74c3c;
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
