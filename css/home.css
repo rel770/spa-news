@@ -26,3 +26,8 @@
   transition: all 0.3s ease;
   font-size: 1rem;
 }
+
+.refresh-button:hover {
+  background: #2980b9;
+  transform: translateY(-2px);
+}
