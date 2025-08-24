@@ -98,3 +98,11 @@
   cursor: not-allowed;
 }
 
+.submit-message {
+  padding: 1rem;
+  border-radius: 8px;
+  margin-top: 1rem;
+  text-align: center;
+  font-weight: 500;
+}
+
