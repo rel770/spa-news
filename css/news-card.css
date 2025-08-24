@@ -71,3 +71,7 @@
   font-size: 0.85rem;
   color: #7f8c8d;
 }
+
+.news-card-author {
+  font-weight: 500;
+}
