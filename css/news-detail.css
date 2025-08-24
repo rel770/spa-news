@@ -73,3 +73,15 @@
   border-radius: 10px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
+
+.news-detail-description {
+  font-size: 1.1rem;
+  color: #34495e;
+  font-style: italic;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-left: 4px solid #3498db;
+  border-radius: 5px;
+}
+
