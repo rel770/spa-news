@@ -27,3 +27,10 @@
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
+.news-detail-title {
+  font-size: 2.2rem;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+  line-height: 1.3;
+}
+
