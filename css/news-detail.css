@@ -43,3 +43,8 @@
   flex-wrap: wrap;
 }
 
+.news-detail-author {
+  color: #3498db;
+  font-weight: 600;
+}
+
