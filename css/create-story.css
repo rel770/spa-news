@@ -46,3 +46,9 @@
   font-family: inherit;
 }
 
+.form-group input:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: #3498db;
+}
+
