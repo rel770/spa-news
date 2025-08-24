@@ -9,3 +9,9 @@
   align-items: center;
   margin-bottom: 2rem;
 }
+
+.home-header h2 {
+  font-size: 2rem;
+  color: #2c3e50;
+  font-weight: 600;
+}
