@@ -57,3 +57,9 @@
   color: #7f8c8d;
   font-size: 0.85rem;
 }
+
+.form-group textarea {
+  resize: vertical;
+  min-height: 100px;
+}
+
