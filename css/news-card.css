@@ -75,3 +75,7 @@
 .news-card-author {
   font-weight: 500;
 }
+
+.news-card-date {
+  font-style: italic;
+}
