@@ -27,3 +27,15 @@
     list-style: none;
     gap: 1rem;
 }
+
+.nav-link {
+    background: none;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
