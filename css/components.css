@@ -37,3 +37,6 @@
   margin-top: 1rem;
   transition: background 0.3s ease;
 }
+.error button:hover {
+  background: #c0392b;
+}
