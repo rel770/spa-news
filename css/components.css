@@ -17,3 +17,13 @@
   animation: spin 1s linear infinite;
   margin-bottom: 1rem;
 }
+
+.error {
+  text-align: center;
+  padding: 2rem;
+  background: #f8d7da;
+  color: #721c24;
+  border-radius: 10px;
+  margin: 2rem 0;
+}
+
