@@ -42,3 +42,21 @@
     padding: 1rem;
   }
 }
+
+@media (max-width: 480px) {
+  .nav-brand h1 {
+    font-size: 1.5rem;
+  }
+
+  .news-card-content {
+    padding: 1rem;
+  }
+
+  .news-card-title {
+    font-size: 1rem;
+  }
+
+  .news-detail-title {
+    font-size: 1.4rem;
+  }
+}
