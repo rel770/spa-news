@@ -37,6 +37,14 @@
   margin-top: 1rem;
   transition: background 0.3s ease;
 }
+
 .error button:hover {
   background: #c0392b;
+}
+
+.no-news {
+  text-align: center;
+  color: #7f8c8d;
+  font-size: 1.1rem;
+  padding: 2rem;
 }
